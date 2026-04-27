@@ -1,0 +1,25 @@
+{
+  "name": "mbti-obsidian-plugin",
+  "version": "1.0.0",
+  "description": "Generate daily/weekly reflection templates for all 16 MBTI personality types",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "test": "echo \"Error: no tests specified\" && exit 1"
+  },
+  "keywords": [
+    "obsidian",
+    "plugin",
+    "mbti",
+    "personality",
+    "templates"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "obsidian": "^1.4.0",
+    "typescript": "^5.3.0"
+  }
+}

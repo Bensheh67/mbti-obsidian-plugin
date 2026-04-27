@@ -1,0 +1,13 @@
+{
+  "id": "mbti-template-generator",
+  "name": "MBTI Template Generator",
+  "version": "1.0.0",
+  "description": "Generate daily/weekly reflection templates for all 16 MBTI personality types",
+  "author": "",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "license": "MIT",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.16.0",
+  "js": "main.js"
+}

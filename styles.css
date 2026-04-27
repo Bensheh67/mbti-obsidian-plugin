@@ -1,0 +1,8 @@
+/* MBTI Template Generator Plugin Styles */
+
+.mbti-template-generator {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Note styling is handled by Obsidian's built-in themes */
+/* This stylesheet is reserved for future UI components if needed */
